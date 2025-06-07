@@ -1,0 +1,23 @@
+# Shiva Nataraj NFT Collection
+
+node_modules/
+.env
+*.log
+.DS_Store
+.vscode/
+dist/
+build/
+
+# Blender temporary files
+*.blend1
+*.blend2
+*.tmp
+
+# IPFS temporary files
+*.temp
+cache/
+
+# Local development
+.pinata.env
+private-keys.txt
+deployment-secrets.json
